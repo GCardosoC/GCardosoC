@@ -15,7 +15,7 @@ Sou estudante de Psicologia e o meu objetivo profissional é atuar na área de R
 
 ## 📚 Formação Complementar
 Procuro manter-me sempre atualizado nas áreas de tecnologia e RH:
-- **Análise de Dados:** Certificado Profissional Google Data Analytics (Coursera/Google - em curso) e Power BI Intermédio (Santander Academy, 2026).
+- **Análise de Dados:** Certificado Profissional em Analise de dados (Google - em curso) e Power BI Intermédio (Santander Academy, 2026).
 - **RH:** People Analytics, Recrutamento e Seleção, e Gestão de Pessoas (SEBRAE, 2026).
 
 ## 📫 Como contactar-me
