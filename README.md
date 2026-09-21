@@ -8,26 +8,20 @@ Atualmente, estou construindo minha carreira na interseção entre a **Psicologi
 
 ## 🚀 Sobre mim
 
-- 🎓 **Background:** Estudante de Psicologia, apaixonado por entender dinâmicas organizacionais, desenvolvimento humano e comportamento.
-- 💼 **Experiência Prática:** Atuação no PCP, desenvolvendo soluções de dados para o negócio (como a modelagem e análise de bases históricas com mais de 10 anos de registros).
+- 🎓 **Background:** Estudante de Psicologia, apaixonado por entender dinâmicas organizacionais, desenvolvimento humano e comportamentamental.
+- 💼 **Experiência Prática:** Atuação no Planejamento e Controle de Produção, desenvolvendo soluções de dados para o negócio (como a modelagem e análise de dados com dashboards e automações no excel).
 - 💡 **O que eu faço:** Transformo processos manuais em rotinas automatizadas, estruturo bancos de dados relacionais e crio visualizações dinâmicas para apoiar a tomada de decisão.
-- 🌱 **No momento, estou me aprofundando em:** processos de people analytics, analise de dados e ferramentas de Recursos Humanos
+- 🌱 **No momento, estou me aprofundando em:** People analytics, analise de dados e ferramentas de Recursos Humanos
+
 ## 🛠️ Habilidades e Ferramentas
 
 Aqui estão as principais tecnologias que utilizo para transformar dados brutos em inteligência:
 
 - **Análise e Visualização:** Power BI (Power Query & DAX)
 - **Engenharia e Automação:** Excel Avançado, VBA, construção de formulários customizados
-- **Bancos de Dados:** Modelagem Relacional, consultas em SQL
 - **Desenvolvimento:** Uso de Inteligência Artificial como assistente para otimização de código e lógica de programação
-
-## 📈 Projetos em Destaque
-
-*(Adicione os links para os seus repositórios aqui)*
-- [**Dashboard de Histórico Operacional:**](#) Análise e estruturação de uma década de dados de produção utilizando Power Query e DAX para identificar tendências e inconsistências.
-- [**Automação de Processos com VBA:**](#) Scripts de registro, filtro e exclusão de dados para otimização de tempo e redução de erros operacionais.
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
-- Email: [Seu email profissional]
+- [LinkedIn](https://www.linkedin.com/in/g-cardoso-c/)
+- Email: [gabrielcradoso@gmail.com]
